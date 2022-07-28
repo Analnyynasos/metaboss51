@@ -28,6 +28,12 @@
     {
       "trait_type": "Logo",
       "value": "Présentation17"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 210,
+      "display_type": "number",
+      "max_value": 888
     }
     ],
     "category": "image",
